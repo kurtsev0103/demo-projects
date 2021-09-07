@@ -1,0 +1,52 @@
+[
+    {
+        "username": "Alex Kurtsev",
+        "avatarImageString": "human1",
+        "id": 1
+    },
+    {
+        "username": "Oleg Petrov",
+        "avatarImageString": "human2",
+        "id": 2
+    },
+    {
+        "username": "Misha Sidorov",
+        "avatarImageString": "human3",
+        "id": 3
+    },
+    {
+        "username": "David Clark",
+        "avatarImageString": "human4",
+        "id": 4
+    },
+    {
+        "username": "John Whow",
+        "avatarImageString": "human5",
+        "id": 5
+    },
+    {
+        "username": "Masha Lapcova",
+        "avatarImageString": "human6",
+        "id": 6
+    },
+    {
+        "username": "Kiril Ivanov",
+        "avatarImageString": "human7",
+        "id": 7
+    },
+    {
+        "username": "Leila Krasko",
+        "avatarImageString": "human8",
+        "id": 8
+    },
+    {
+        "username": "Vlada Levchenko",
+        "avatarImageString": "human9",
+        "id": 9
+    },
+    {
+        "username": "Natasha Kurtseva",
+        "avatarImageString": "human10",
+        "id": 10
+    }
+]

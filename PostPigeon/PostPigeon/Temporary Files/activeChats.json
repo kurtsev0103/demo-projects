@@ -1,0 +1,32 @@
+[
+    {
+        "username": "Alex Kurtsev",
+        "userImageString": "human1",
+        "lastMessage": "How are you?",
+        "id": 1
+    },
+    {
+        "username": "Oleg Petrov",
+        "userImageString": "human2",
+        "lastMessage": "Where are you?",
+        "id": 2
+    },
+    {
+        "username": "Misha Sidorov",
+        "userImageString": "human3",
+        "lastMessage": "Nice to meet you",
+        "id": 3
+    },
+    {
+        "username": "David Clark",
+        "userImageString": "human4",
+        "lastMessage": "hi:)",
+        "id": 4
+    },
+    {
+        "username": "John Whow",
+        "userImageString": "human5",
+        "lastMessage": "Hi, Alex, answer me please!",
+        "id": 5
+    }
+]

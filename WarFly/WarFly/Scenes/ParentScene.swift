@@ -1,0 +1,31 @@
+//
+//  ParentScene.swift
+//  WarFly
+//
+//  Created by Oleksandr Kurtsev on 20/06/2020.
+//  Copyright © 2020 Oleksandr Kurtsev. All rights reserved.
+//
+
+import SpriteKit
+
+class ParentScene: SKScene {
+
+    let sceneManager = SceneManager.shared
+    let gameSettings = GameSettings()
+    var backScene: SKScene?
+    
+    override init(size: CGSize) {
+        super.init(size: size)
+        backgroundColor = SKColor(red: 0.15, green: 0.15, blue: 0.3, alpha: 1.0)
+    }
+    
+    func setHeader(withName name: String?, andBackground backgroundName: String) {
+        let header = ButtonNode(title: name, backgroundName: backgroundName)
+        header.position = CGPoint(x: self.frame.midX, y: self.frame.midY + 150)
+        self.addChild(header)
+    }
+    
+    required init?(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+}

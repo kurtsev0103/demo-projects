@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1078605757403-88f9g0mnjfa452rfslvu491fuuo6md9r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1078605757403-88f9g0mnjfa452rfslvu491fuuo6md9r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVjJQG4XvmMIY2jF4eO5L4ICZfAchiVeY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1078605757403</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oleksandrkurtsev.iTraveler</string>
+	<key>PROJECT_ID</key>
+	<string>itraveler-92cd1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>itraveler-92cd1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1078605757403:ios:394bd540548b2b140a05fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://itraveler-92cd1.firebaseio.com</string>
+</dict>
+</plist>

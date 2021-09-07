@@ -1,0 +1,32 @@
+[
+    {
+        "username": "Masha Lapcova",
+        "userImageString": "human6",
+        "lastMessage": "???",
+        "id": 6
+    },
+    {
+        "username": "Kiril Ivanov",
+        "userImageString": "human7",
+        "lastMessage": "i dont know",
+        "id": 7
+    },
+    {
+        "username": "Leila Krasko",
+        "userImageString": "human8",
+        "lastMessage": "please, go with me",
+        "id": 8
+    },
+    {
+        "username": "Vlada Levchenko",
+        "userImageString": "human9",
+        "lastMessage": "no.",
+        "id": 9
+    },
+    {
+        "username": "Natasha Kurtseva",
+        "userImageString": "human10",
+        "lastMessage": "Are you realy?",
+        "id": 10
+    }
+]
